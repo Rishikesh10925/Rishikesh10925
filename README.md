@@ -1,6 +1,6 @@
 ## Hi, I'm Rishikesh
 
-B.Tech CSE (Data Science) student at **NMIMS MPSTME Hyderabad**. I build machine-learning systems and measure where they work and where they don't: calibrated confidence, statistical guarantees, honest evaluation. I also build the full-stack software that turns them into usable products.
+B.Tech CSE (Data Science) student at **NMIMS STME Hyderabad**. I build machine-learning systems and measure where they work and where they don't: calibrated confidence, statistical guarantees, honest evaluation. I also build the full-stack software that turns them into usable products.
 
 - **Focus:** reliable AI, including conformal prediction, risk-controlled automation, retrieval-grounded LLMs and computer vision
 - **Also build:** FastAPI and React applications, PostgreSQL / PostGIS / pgvector backends, and AWS deployments
